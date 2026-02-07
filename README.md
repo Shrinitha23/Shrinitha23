@@ -18,24 +18,43 @@ Professional with a strong foundation in programming, machine learning, and data
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 **CSE (AI & ML) Student** | CGPA **9.31**
-- 💼 **Infosys Intern** – AI-Powered Medical Image Analysis
-- 🔭 Currently working on **Artificial Intelligence, Generative AI & Data Science**
-- 🌱 Currently learning **Python, SQL, and Java**
-- 👯 Looking to collaborate on **Python and SQL projects**
-- 🤝 Looking for guidance and mentorship in **AI & Machine Learning**
-- 📫 Reach me at **shrinithagandu@gmail.com**
+## 🎓 About Me
+- 🎓 **B.Tech in Computer Science & Engineering (AI & ML)**  
+- 🏫 **Malla Reddy Engineering College for Women (JNTUH), Hyderabad**  
+- 📊 **CGPA: 9.31**  
+- 💡 Passionate about building **reliable, real-world software systems**  
+- 🤝 Strong team player with good communication skills  
+- 📫 **How to reach me:** shrinithagandu@gmail.com  
+
+---
+
+## 🔭 Currently Working On
+- **Artificial Intelligence**
+- **Generative AI**
+- **Data Science**
+
+---
+
+## 🌱 Currently Learning
+- **Python**
+- **SQL**
+- **Java**
+
+---
+
+## 👯 Looking to Collaborate On
+- **Python-based projects**
+- **SQL & Database-related projects**
 
 ---
 
 ## 🛠️ Skills & Technologies
-**Programming Languages:** Python, Java, C  
-**Databases:** MySQL (DBMS)  
-**AI/ML Technologies:** Artificial Intelligence, Machine Learning, Deep Learning, Generative AI  
-**Libraries & Frameworks:** TensorFlow, Scikit-learn, Pandas, OpenCV, PyTorch  
-**Web Technologies:** HTML, CSS  
-**Soft Skills:** Communication, Teamwork  
+- **Programming Languages:** Python, Java, C  
+- **Databases:** MySQL (DBMS)  
+- **AI/ML Technologies:** Artificial Intelligence, Machine Learning, Deep Learning, Generative AI  
+- **Libraries & Frameworks:** TensorFlow, Scikit-learn, Pandas, OpenCV, PyTorch  
+- **Web Technologies:** HTML, CSS  
+- **Soft Skills:** Communication, Teamwork  
 
 ---
 
@@ -43,15 +62,15 @@ Professional with a strong foundation in programming, machine learning, and data
 
 ### 🩺 AI-Powered Medical Image Analysis for Eye Disease Diagnosis
 - Built an end-to-end deep learning pipeline to detect **3+ eye diseases** from **5,000+ retinal images**
-- Applied **image preprocessing and segmentation** techniques including:
+- Applied image preprocessing and segmentation techniques, including:
   - Noise reduction  
   - Contrast enhancement  
-  - Retinal region isolation
+  - Retinal region isolation  
 - Improved feature quality by approximately **20%**
 - Trained a **VGG16-based CNN** with data augmentation
 - Achieved **92% validation accuracy**
 - Automated image-based diagnosis, reducing manual review time by **~40%**
-- Technologies used: **Python, TensorFlow/Keras, OpenCV**
+- **Technologies used:** Python, TensorFlow/Keras, OpenCV  
 
 ---
 
@@ -61,7 +80,7 @@ Professional with a strong foundation in programming, machine learning, and data
 - Processed **1,000+ video frames**, addressing:
   - Camera motion  
   - Scale variation  
-  - Partial occlusions
+  - Partial occlusions  
 - Applied **memory fusion techniques** to preserve object identity
 - Reduced ID switches by **~25%**
 - Achieved **85%+ tracking accuracy** on test data
