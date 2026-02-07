@@ -18,43 +18,99 @@ Professional with a strong foundation in programming, machine learning, and data
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 - 🎓 **CSE (AI & ML) Student** | CGPA **9.31**
-- 💼 **Infosys Intern** – AI-Powered Medical Image Analysis for Eye Disease Diagnosis
+- 💼 **Infosys Intern** – AI-Powered Medical Image Analysis
 - 🔭 Currently working on **Artificial Intelligence, Generative AI & Data Science**
 - 🌱 Currently learning **Python, SQL, and Java**
 - 👯 Looking to collaborate on **Python and SQL projects**
-- 🤝 Looking for guidance and support in **AI & Machine Learning**
+- 🤝 Looking for guidance and mentorship in **AI & Machine Learning**
 - 📫 Reach me at **shrinithagandu@gmail.com**
 
 ---
 
-### 🛠️ Skills & Technologies
-**Programming:** Python, Java, C  
+## 🛠️ Skills & Technologies
+**Programming Languages:** Python, Java, C  
 **Databases:** MySQL (DBMS)  
-**AI/ML:** Machine Learning, Deep Learning, Generative AI  
-**Libraries & Tools:** TensorFlow, Scikit-learn, Pandas, OpenCV  
+**AI/ML Technologies:** Artificial Intelligence, Machine Learning, Deep Learning, Generative AI  
+**Libraries & Frameworks:** TensorFlow, Scikit-learn, Pandas, OpenCV, PyTorch  
 **Web Technologies:** HTML, CSS  
+**Soft Skills:** Communication, Teamwork  
 
 ---
 
-### 🚀 Projects
-**🩺 AI-Powered Medical Image Analysis for Eye Disease Diagnosis**
-- Developed an end-to-end deep learning pipeline using **VGG16**
-- Processed **5,000+ retinal images** with preprocessing and segmentation
+## 🚀 Projects
+
+### 🩺 AI-Powered Medical Image Analysis for Eye Disease Diagnosis
+- Built an end-to-end deep learning pipeline to detect **3+ eye diseases** from **5,000+ retinal images**
+- Applied **image preprocessing and segmentation** techniques including:
+  - Noise reduction  
+  - Contrast enhancement  
+  - Retinal region isolation
+- Improved feature quality by approximately **20%**
+- Trained a **VGG16-based CNN** with data augmentation
 - Achieved **92% validation accuracy**
-- Reduced manual diagnosis effort by **~40%**
-
-**🚁 Multi-Object Tracking with Memory Fusion (UAV Videos)**
-- Tracked **10+ objects per frame** across aerial video sequences
-- Reduced ID switches by **~25%** using memory fusion techniques
-- Achieved **85%+ tracking accuracy** using Python, OpenCV & PyTorch
+- Automated image-based diagnosis, reducing manual review time by **~40%**
+- Technologies used: **Python, TensorFlow/Keras, OpenCV**
 
 ---
 
-### 🎓 Internships & Certifications
-- 💼 **Infosys Internship** – AI-Powered Medical Image Analysis
-- 📊 **TechSaksham AI Internship** – Resume Ranking System
-- 🏅 Cambridge **C1 Certification**
-- 🏅 **Python & C** – Cisco Networking Academy
-- 🏅 **Generative AI** – Oracle Certified
+### 🚁 Multi-Object Tracking with Memory Fusion in UAV Videos
+- Developed a multi-object tracking system for **UAV aerial videos**
+- Tracked **10+ objects per frame** across complex scenes
+- Processed **1,000+ video frames**, addressing:
+  - Camera motion  
+  - Scale variation  
+  - Partial occlusions
+- Applied **memory fusion techniques** to preserve object identity
+- Reduced ID switches by **~25%**
+- Achieved **85%+ tracking accuracy** on test data
+- Implemented near real-time processing using **Python, OpenCV, and PyTorch**
+
+---
+
+## 🎓 Internships
+- 💼 **Infosys Internship (10/2024 – 12/2024)**  
+  *AI-Powered Medical Image Analysis for Eye Disease Diagnosis*
+
+- 📊 **TechSaksham AI Internship (04/2025)**  
+  *Resume Ranking System using AI*
+
+---
+
+## 🏅 Certifications
+- Cambridge **C1 Level Certification**
+- **Python & C** – Cisco Networking Academy
+- **Generative AI** – Oracle Certified
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/gandu-shrinitha-632389294" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://medium.com/@shrinithagandu" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
+</a>
+<a href="https://www.codechef.com/users/gandu.shrinitha" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/gandu.shrinitha" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+</a>
+<a href="https://www.leetcode.com/shrinithagandu" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrinitha23&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinitha23&layout=compact" />
+</p>
